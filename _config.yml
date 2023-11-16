@@ -1,8 +1,7 @@
 # Site settings
 title: Mario Cuevas, el creador de sitios web con Jekyll # site title
-description: >- # site description
-Hoy, Klise, una muy buena opcion
-lang: es # default lang
+description: # site description
+lang: en-USA # default lang
 timezone: Madrid # set your timezone
 image: assets/img/jekyll.jpg # This image used for Open Graph more info https://ogp.me/
 repo: https://github.com/piharpi/jekyll-klise # site repo [optional]
